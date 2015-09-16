@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 受用三水要行法
+#+DATE: 2015-08-30 20:46:05.874687
+#+PROPERTY: JUAN 0
