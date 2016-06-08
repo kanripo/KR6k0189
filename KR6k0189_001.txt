@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:46:05.685083
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:44
 #+TITLE: 受用三水要行法
 #+PROPERTY: CBETA_ID T45n1902
 #+PROPERTY: ID KR6k0189
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1902
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0189_T_000-0902c>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0189_T_001-0902c> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1902¶
-
- 受用三水要行法¶
+No. 1902¶
+受用三水要行法¶
 ¶
 唐三藏法師義淨撰¶
 
